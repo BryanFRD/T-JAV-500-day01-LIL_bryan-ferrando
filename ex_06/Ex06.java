@@ -3,6 +3,9 @@ import java.util.ArrayList;
 public class Ex06 {
 
     public static void sequence(int nbr){
+        if(nbr < 0)
+            return;
+
         ArrayList<String> conway = new ArrayList<String>();
         conway.add("1");
         for(int i = 0; i < nbr; i++){
