@@ -7,6 +7,7 @@ public class Ex02 {
         for(int i = 0; i < nbr; i++){
             dog += "woof";
         }
+        System.out.println();
         return dog;
     }
 
