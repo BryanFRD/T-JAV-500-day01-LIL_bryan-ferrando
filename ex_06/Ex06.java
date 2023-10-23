@@ -2,7 +2,7 @@ package ex_06;
 
 import java.util.ArrayList;
 
-class Ex06 {
+public class Ex06 {
 
     public static void sequence(int nbr){
         ArrayList<String> conway = new ArrayList<String>();

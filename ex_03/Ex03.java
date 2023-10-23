@@ -2,7 +2,7 @@ package ex_03;
 
 import java.util.ArrayList;
 
-class Ex03 {
+public class Ex03 {
 
     public static void printArray(ArrayList<String> myArray){
         for(int i = 0; i < myArray.size(); i++){
