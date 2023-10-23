@@ -1,5 +1,3 @@
-package ex_01;
-
 public class Ex01 {
 
     public static void myConcat(String str1, String str2){

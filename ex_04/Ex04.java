@@ -1,5 +1,3 @@
-package ex_04;
-
 public class Ex04 {
 
     public static void printMovieFromNbr(int nbr){
