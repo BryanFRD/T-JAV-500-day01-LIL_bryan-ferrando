@@ -5,11 +5,7 @@ import java.util.List;
 
 public class Ex06 {
 
-    public static void main(String[] args){
-        conway(3);
-    }
-
-    public static void conway(int nbr){
+    public static void sequence(int nbr){
         ArrayList<String> conway = new ArrayList<String>();
         conway.add("1");
         for(int i = 0; i < nbr; i++){
