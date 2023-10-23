@@ -3,7 +3,7 @@ public class Ex04 {
     public static void printMovieFromNbr(int nbr){
         switch(nbr){
             case 3:
-                System.out.println("The Tree Brothers");
+                System.out.println("The Three Brothers");
                 break;
             case 6:
                 System.out.println("The Sixth Sense");
